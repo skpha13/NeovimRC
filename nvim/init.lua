@@ -1,0 +1,2 @@
+require("skpha")
+print("hello")
